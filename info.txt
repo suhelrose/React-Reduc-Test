@@ -1,0 +1,7 @@
+Good Morning
+
+Complete these steps to run this code
+1)Download this code.
+2)G to forlder react-redux-test and react-redux-test$ sudo npm start
+3) code will run successfully in browser.
+
